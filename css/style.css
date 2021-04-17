@@ -1,0 +1,28 @@
+.landing{
+    background-image: url(../assets/backgrounds/h_img.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 17%;
+    text-align: center;
+    font-size: large;
+}
+#logo{
+    margin-top: 12px;
+    margin-bottom: 24px;
+    width: 70px;
+     height: 70px;
+}
+
+.landing h1{
+  padding: 2px;
+  margin: 5px;
+}
+.landing p{
+  padding: 2px;
+}
+.mouse-click{
+    padding-top: 22px;
+    margin-top: 10%;
+    padding-bottom: 20px;
+}
