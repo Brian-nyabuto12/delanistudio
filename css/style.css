@@ -7,6 +7,12 @@
     text-align: center;
     font-style: normal;
 }
+.contact h2{
+    text-align: center;
+    margin-top: 20px;
+    color: black;
+    font-size: 50px;
+}
 #logo{
     margin-top: 12px;
     margin-bottom: 24px;
@@ -51,25 +57,37 @@
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    margin-left:18%;
+    margin-left:6%;
     margin-right: 16%; 
   }
   portfolio h2{
     text-align: center;
-    padding-top:40px;
+    padding-top:16%;
   }
   .contact{
     background-image: url('../assets/backgrounds/c_image.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
+    padding: 10%;
     color: white;
     
 
-  }
-.footer{
+}
+footer{
     text-align: center;
+    padding-top: 30px;
+}
+.form-group form-inline{
+    text-align: center;
+
+}
+.contact h2{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 40px;
     
 }
+
 
 
