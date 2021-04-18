@@ -47,4 +47,29 @@
     font-style: normal;
 
 }
+.portfolio{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left:18%;
+    margin-right: 16%; 
+  }
+  portfolio h2{
+    text-align: center;
+    padding-top:40px;
+  }
+  .contact{
+    background-image: url('../assets/backgrounds/c_image.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    
+
+  }
+.footer{
+    text-align: center;
+    
+}
+
 
