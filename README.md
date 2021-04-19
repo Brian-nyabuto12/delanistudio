@@ -14,10 +14,10 @@ This is a website for Delani Studio that shows details about the services that t
 * Open your terminal
 * use this command to clone $ git clone https://github.com/Brian-nyabuto12/delanistudio.git
 # BDD
-Enter your name: brian nyabuto.
-Enter your Email address:name@gmail.com
-Enter your message or comments...
-press Submit.
+* Enter your name: brian nyabuto.
+* Enter your Email address:name@gmail.com
+* Enter your message or comments...
+* press Submit.
 
 ## live link
 
@@ -26,7 +26,7 @@ https://brian-nyabuto12.github.io/delanistudio/
 * HTML
 * CSS
 * bootstrap
-* JQuery
+* J
 ## Support and contact details
 { If they run into any issues or have questions, ideas or concerns.EMAIL :brayanyabuto20@gmail.com}
 ### License
