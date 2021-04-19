@@ -68,3 +68,22 @@ $(document).ready(function(){
       $("#overlay8").hide();
     });
   });
+
+  $("form#form1").on('submit',function(event){
+    event.preventDefault();
+    var name = $("input#name").val();
+    var email = $("input#email").val();
+    var message = $("textarea#message").val();
+
+    if ($("input#name").val() && $("input#email").val() && $("input#message").val() ){
+        alert ("Hello " + name + ", Thank you for reaching out, we'll get back to you shortly...");
+    }
+    else if($("input#name").val() && $("input#email").val()){
+        alert("Thank you for reaching ou to us.  your message has been received.");
+    }
+    
+   else{
+     alert("Please provide correct name or email")
+   }
+});
+
