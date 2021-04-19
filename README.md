@@ -26,7 +26,7 @@ https://brian-nyabuto12.github.io/delanistudio/
 * HTML
 * CSS
 * bootstrap
-* J
+* Jquery
 ## Support and contact details
 { If they run into any issues or have questions, ideas or concerns.EMAIL :brayanyabuto20@gmail.com}
 ### License

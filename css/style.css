@@ -124,8 +124,8 @@ footer{
     font-size: 10%;
     position: absolute;
     top: 50%;
-    left: 50%;
-    font-size: 50px;
+    left: 40%;
+    font-size: 30px;
     color: black;
     transform: translate(-50%,-50%);
     -ms-transform: translate(-50%,-50%);
@@ -145,12 +145,13 @@ footer{
   
   }
   .wonger{
-    
+    position: inline;
     width: 80%;
     height: 80%;
-    border: 2px solid black;
+    border: 3px solid black;
     margin-left: 0%;
     margin-top: 10%;
+    padding-right: 10%;
   }
   .wonger h1{
     text-align: center;
